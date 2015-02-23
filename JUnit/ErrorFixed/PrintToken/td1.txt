@@ -1,0 +1,2 @@
+token => [a] and [b] or 'c' with #d and `e`, num 124;comment
+string xor "value"
